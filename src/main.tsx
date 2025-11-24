@@ -7,6 +7,7 @@ import { BrowserRouter } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import { Footer } from "./components/Footer";
 import { Toaster } from "react-hot-toast";
+import Chatbot from "./components/Chatbot";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
@@ -17,6 +18,7 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
         <Toaster />
       </main>
       <Footer />
+      <Chatbot />
     </BrowserRouter>
   </React.StrictMode>
 );
