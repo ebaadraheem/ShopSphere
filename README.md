@@ -69,4 +69,4 @@ The frontend dev server runs on `http://localhost:5173` and the backend on `http
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License.
