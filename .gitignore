@@ -1,0 +1,17 @@
+serviceAccountKey.json
+.env
+node_modules/
+dist/
+logs/
+*.log
+.DS_Store
+.vscode/
+npmrc
+coverage/
+.idea/
+.cache/
+*.tsbuildinfo
+.env.local
+.env.development
+.env.production
+.env.test
